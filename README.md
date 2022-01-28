@@ -7,6 +7,6 @@ Code reference - https://github.com/academind/react-complete-guide-code/tree/zz-
 
 ![Demo](meetup-app/meetup-app-demo.gif)
 
-## 1. Expense tracker app
+## 2. Expense tracker app
 
 ![Demo](expense-tracker-app/expense-tracker-app-demo.gif)
