@@ -1,4 +1,4 @@
-# An attempt to learn REACT JS by doing various projects.
+# Learning REACT JS concepts by doing various projects.
 
 ## 1. Meet-up app
 
