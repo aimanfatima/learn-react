@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import Wrapper from "../Helpers/Wrapper";
 import Button from "../UI/Button";
 import Card from "../UI/Card";
@@ -45,7 +45,7 @@ const AddUser = (props) => {
   };
 
   return (
-    <Wrapper>
+    <React.Fragment>
       {error && (
         <ErrorModal
           title={error.title}
@@ -73,7 +73,7 @@ const AddUser = (props) => {
         </form>
       </Card>
       )
-    </Wrapper>
+    </React.Fragment>
   );
 };
 
